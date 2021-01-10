@@ -79,3 +79,6 @@ crashlytics-build.properties
 # Archives
 *.zip
 *.rar
+# Archives' meta files
+*.zip.meta
+*.rar.meta
