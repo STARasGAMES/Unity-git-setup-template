@@ -80,3 +80,6 @@ crashlytics-build.properties
 # Archives' meta files
 *.zip.meta
 *.rar.meta
+
+# Blender backup file
+*.blend[1-9]
